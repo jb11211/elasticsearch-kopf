@@ -1,0 +1,5 @@
+elasticsearch-kopf (1.2-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- John Brooker <jeb@hp.com>  Wed, 25 Jun 2014 09:09:24 -0700
