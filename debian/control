@@ -1,0 +1,16 @@
+Source: elasticsearch-kopf
+Section: web
+Priority: optional
+Maintainer: John Brooker <jeb@hp.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+Homepage: https://github.com/lmenezes/elasticsearch-kopf
+#Vcs-Git: git://git.debian.org/collab-maint/elasticsearch-kopf.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/elasticsearch-kopf.git;a=summary
+
+Package: elasticsearch-kopf
+Architecture: any
+Depends: ${misc:Depends}
+Description: kopf is a simple web administration tool for ElasticSearch.
+
+
